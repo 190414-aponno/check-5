@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body {
+	background: #AFF9FA
+}
+
+.logo {
+	max-height: 164px;
+}
+
+.media-body {
+	margin-top: 20px;
+	color: orangered;
+	
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 78px;
+}
+
+nav {
+	align-content: center;
+	text-align: center;
+	
+}
