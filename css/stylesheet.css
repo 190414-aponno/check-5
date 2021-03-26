@@ -26,10 +26,15 @@ h1 {
 	
 }
 
-.nav-pills {
+nav {
 	background-color: white;
 	border-top: solid medium orangered;
 	border-bottom: solid medium orangered;
+}
+
+.nav-pills {
+	background-color: white;
+	margin: 0px 40px;
 }
 
 .jumbotron {
