@@ -28,7 +28,13 @@ h1 {
 
 .nav-pills {
 	background-color: white;
-	border-top: solid medium;
-	border-bottom: solid medium;
-	border-color: orangered;
+	border-top: solid medium orangered;
+	border-bottom: solid medium orangered;
+}
+
+.jumbotron {
+	margin: 40px;
+	background: white;
+	border: solid medium orangered;
+	
 }
