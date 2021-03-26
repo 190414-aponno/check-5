@@ -21,8 +21,14 @@ h1 {
 	font-size: 78px;
 }
 
-nav {
-	align-content: center;
-	text-align: center;
+.card {
+	margin: 40px;
 	
+}
+
+.nav-pills {
+	background-color: white;
+	border-top: solid medium;
+	border-bottom: solid medium;
+	border-color: orangered;
 }
